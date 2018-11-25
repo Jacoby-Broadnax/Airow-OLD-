@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="main.css" type="text/css">
+<meta name="viewport" content="width=360, initial-scale=1">
+</head>
+<body>
+	
+
+
+        
+ <div class="overallscroll">
+    
+<div class="gaming">
+
+    
+     <div class="navbar">
+      <img class="dock" src="Dock.png">
+         <a href="Index.html"><img class="home" src="Home%20icon%20Gray.svg" width=20px></a>
+    <a href="Index.html"><img class="hometext" src="Home%20text%20gray.svg" width=38px></a> 
+     
+     <img class="video" src="Feedback%20Icon%20BLack.svg" width="18px">
+         <img class="videotext" src="Feedback%20text%20black.svg" width=52px>
+         
+     <img class="memes" src="Memes%20Icon.png">
+         <img class="memetext" src="Memes%20Text.png">
+     
+     
+     
+     
+     
+     
+     </div>
+    
+    <div class="feedback"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScX18RE13YWjy53PpiUChYz23_h539PmaF06gjuzueNPoZBrw/viewform?embedded=true" width="360" height="528" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+
+        
+        
+        
+        
+       
+        <div class="top">
+        
+        
+        <img class="header" src="Dock.png">
+        
+            <img class="logo" src="Logo.svg" width="114px">
+            
+            <img class="menu" src="Hamburger%20Menu.svg" width="23.28px">
+        
+
+		
+
+	
+    </div>
+	
+	
+	
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+    </body>
+
+</html>

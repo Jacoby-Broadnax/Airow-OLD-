@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="336 -62 20 17">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Home_icon_Gray);
+      }
+
+      .cls-2 {
+        fill: #717272;
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Home_icon_Gray">
+      <rect x="336" y="-62" width="20" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Home_icon_Gray" data-name="Home icon Gray" class="cls-1">
+    <rect class="cls-3" x="336" y="-62" width="20" height="17"/>
+    <path id="ic_home_24px" class="cls-2" d="M10,20V14h4v6h5V12h3L12,3,2,12H5v8Z" transform="translate(334 -65)"/>
+  </g>
+</svg>

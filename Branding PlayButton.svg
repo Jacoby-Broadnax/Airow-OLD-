@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="4141 66 132 37">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Branding_PlayButton);
+      }
+
+      .cls-2 {
+        fill: #3402fe;
+      }
+
+      .cls-3 {
+        fill: #ee0008;
+      }
+
+      .cls-4 {
+        fill: #31da00;
+      }
+
+      .cls-5 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Branding_PlayButton">
+      <rect x="4141" y="66" width="132" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Branding_PlayButton" data-name="Branding PlayButton" class="cls-1">
+    <rect class="cls-5" x="4141" y="66" width="132" height="37"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(4141 66)"/>
+    <path id="Rectangle_280" data-name="Rectangle 280" class="cls-3" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(4141 66)"/>
+    <path id="Rectangle_297" data-name="Rectangle 297" class="cls-4" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(4141 66)"/>
+  </g>
+</svg>

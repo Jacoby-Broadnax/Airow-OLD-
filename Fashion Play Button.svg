@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2958 75 132 37">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Fashion_Play_Button_);
+      }
+
+      .cls-2 {
+        fill: #ed00fe;
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Fashion_Play_Button_">
+      <rect x="2958" y="75" width="132" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Fashion_Play_Button_" data-name="Fashion Play Button " class="cls-1">
+    <rect class="cls-3" x="2958" y="75" width="132" height="37"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(2958 75)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1004 315 132 37">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Gaming_Play_Button);
+      }
+
+      .cls-2 {
+        fill: #ffa724;
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Gaming_Play_Button">
+      <rect x="1004" y="315" width="132" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Gaming_Play_Button" data-name="Gaming Play Button" class="cls-1">
+    <rect class="cls-3" x="1004" y="315" width="132" height="37"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(1004 315)"/>
+  </g>
+</svg>

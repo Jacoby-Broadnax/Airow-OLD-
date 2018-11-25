@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1916 354 59 20">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Easy_Icon_Pokemon);
+      }
+
+      .cls-2 {
+        fill: #3a5aa9;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 12px;
+        font-family: KeepCalm-Medium, Keep Calm;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Easy_Icon_Pokemon">
+      <rect x="1916" y="354" width="59" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Easy_Icon_Pokemon" data-name="Easy Icon Pokemon" class="cls-1">
+    <rect class="cls-4" x="1916" y="354" width="59" height="20"/>
+    <rect id="Rectangle_281" data-name="Rectangle 281" class="cls-2" width="59" height="20" rx="8" transform="translate(1916 354)"/>
+    <text id="Easy" class="cls-3" transform="translate(1932 358)"><tspan x="0" y="10">Easy</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="386 -132 52 14">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Feedback_text_black);
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Feedback_text_black">
+      <rect x="386" y="-132" width="52" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="Feedback_text_black" data-name="Feedback text black" class="cls-1">
+    <rect class="cls-3" x="386" y="-132" width="52" height="14"/>
+    <text id="Nearby" class="cls-2" transform="translate(386 -121)"><tspan x="0" y="0">Feedback</tspan></text>
+  </g>
+</svg>
