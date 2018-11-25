@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 524 383">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Logo_Question1_Image_Answer);
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #30f;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke: #ee0008;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        stroke: #31da00;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-9 {
+        filter: url(#NoPath_-_Copy_9_);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 300 168">
+      <image width="300" height="168" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <filter id="NoPath_-_Copy_9_" x="-15" y="-15" width="553.944" height="413" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Logo_Question1_Image_Answer">
+      <rect width="524" height="383"/>
+    </clipPath>
+  </defs>
+  <g id="Logo_Question1_Image_Answer" data-name="Logo Question1 Image Answer" class="cls-1">
+    <rect class="cls-8" width="524" height="383"/>
+    <g id="Rectangle_160" data-name="Rectangle 160" class="cls-2" transform="translate(26.044 29.108)">
+      <rect class="cls-6" width="488.708" height="347.764" rx="10"/>
+      <rect class="cls-7" x="2" y="2" width="484.708" height="343.764" rx="8"/>
+    </g>
+    <g id="Rectangle_279" data-name="Rectangle 279" class="cls-3" transform="translate(24.512 27.576)">
+      <rect class="cls-6" width="488.708" height="347.764" rx="10"/>
+      <rect class="cls-7" x="2" y="2" width="484.708" height="343.764" rx="8"/>
+    </g>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="NoPath_-_Copy_9_2" data-name="NoPath - Copy (9)" class="cls-4" width="523.944" height="383"/>
+    </g>
+    <g id="Rectangle_296" data-name="Rectangle 296" class="cls-5" transform="translate(18.384 18.384)">
+      <rect class="cls-6" width="488.708" height="347.764" rx="10"/>
+      <rect class="cls-7" x="2" y="2" width="484.708" height="343.764" rx="8"/>
+    </g>
+  </g>
+</svg>

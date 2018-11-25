@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 222 39">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Option_A_Logo);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #707070;
+        opacity: 0.11;
+      }
+
+      .cls-4 {
+        fill: #31da00;
+        font-size: 25px;
+        font-family: KeepCalm-Medium, Keep Calm;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_188);
+      }
+    </style>
+    <filter id="Rectangle_188" x="-9" y="-9" width="240" height="57" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Option_A_Logo">
+      <rect width="222" height="39"/>
+    </clipPath>
+  </defs>
+  <g id="Option_A_Logo" data-name="Option A Logo" class="cls-1">
+    <rect class="cls-5" width="222" height="39"/>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_188-2" data-name="Rectangle 188" class="cls-2" width="222" height="39"/>
+    </g>
+    <line id="Line_7" data-name="Line 7" class="cls-3" y2="39" transform="translate(44.5 0.5)"/>
+    <text id="A" class="cls-4" transform="translate(11 10)"><tspan x="0" y="20">A</tspan></text>
+  </g>
+</svg>

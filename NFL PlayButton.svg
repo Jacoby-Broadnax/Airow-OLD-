@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2161 306 132 37">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-NFL_PlayButton);
+      }
+
+      .cls-2 {
+        fill: #3402fe;
+      }
+
+      .cls-3 {
+        fill: #ee0008;
+      }
+
+      .cls-4 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-NFL_PlayButton">
+      <rect x="2161" y="306" width="132" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="NFL_PlayButton" data-name="NFL PlayButton" class="cls-1">
+    <rect class="cls-4" x="2161" y="306" width="132" height="37"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(2161 306)"/>
+    <path id="Rectangle_280" data-name="Rectangle 280" class="cls-3" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(2161 306)"/>
+  </g>
+</svg>

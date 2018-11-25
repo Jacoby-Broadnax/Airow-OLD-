@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1754 306 132 37">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Pokemon_PlayButton);
+      }
+
+      .cls-2 {
+        fill: #3a5aa9;
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0);
+      }
+    </style>
+    <clipPath id="clip-Pokemon_PlayButton">
+      <rect x="1754" y="306" width="132" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Pokemon_PlayButton" data-name="Pokemon PlayButton" class="cls-1">
+    <rect class="cls-3" x="1754" y="306" width="132" height="37"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" d="M8,0H124a8,8,0,0,1,8,8V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(1754 306)"/>
+  </g>
+</svg>

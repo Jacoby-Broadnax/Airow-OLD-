@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-811 785 222 39">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Option_C_Pokemon);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #707070;
+        opacity: 0.11;
+      }
+
+      .cls-4 {
+        fill: #3a5aa9;
+        font-size: 25px;
+        font-family: KeepCalm-Medium, Keep Calm;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_190);
+      }
+    </style>
+    <filter id="Rectangle_190" x="-820" y="776" width="240" height="57" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Option_C_Pokemon">
+      <rect x="-811" y="785" width="222" height="39"/>
+    </clipPath>
+  </defs>
+  <g id="Option_C_Pokemon" data-name="Option C Pokemon" class="cls-1">
+    <rect class="cls-5" x="-811" y="785" width="222" height="39"/>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_190-2" data-name="Rectangle 190" class="cls-2" width="222" height="39" transform="translate(-811 785)"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" class="cls-3" y2="39" transform="translate(-766.5 785.5)"/>
+    <text id="C" class="cls-4" transform="translate(-800 795)"><tspan x="0" y="20">C</tspan></text>
+  </g>
+</svg>
